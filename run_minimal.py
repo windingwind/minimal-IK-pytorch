@@ -7,7 +7,7 @@ from minimal.solver_torch import Solver as SolverTorch
 import minimal.config as config
 
 
-def singel_minimal(jnts, pcl, save_path=None, gender="female", device="cpu", show_results=False):
+def single_minimal(jnts, pcl, save_path=None, gender="female", device="cpu", show_results=False):
     '''
     jnts: torch.Tensor | numpy.ndarray, N_joints*3(x, y, z)
     pcl: torch.Tensor | numpy.ndarray, N_points*3(x, y, z)

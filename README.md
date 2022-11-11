@@ -61,7 +61,7 @@ mesh, jnts = solver.model.run(solver.params())
 
 ### Run Single Frame Optimization
 ```python
-from run_minimal import singel_minimal
+from run_minimal import single_minimal
 
 (verts, faces), kpts = single_minimal(jnts, pcl, "/path/to/save", gender="female", device="cuda:0", show_results=True)
 ```
