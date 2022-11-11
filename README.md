@@ -1,8 +1,11 @@
 # Minimal IK Pytorch
 
-A PyTorch realization of [Minimal-IK](https://github.com/CalciferZh/Minimal-IK) to restore SMPL parameters from skeleton/keypoints + point cloud, with [VPoser](https://github.com/nghorbani/human_body_prior) pose prior for better performance.
+A PyTorch implementation of [Minimal-IK](https://github.com/CalciferZh/Minimal-IK) to restore SMPL parameters from skeleton/keypoints + point cloud, with [VPoser](https://github.com/nghorbani/human_body_prior) pose prior for better performance.
 
 > Note that this repository is separated from a larger project and is NOT fully tested.
+
+Image from [Minimal-IK](https://github.com/CalciferZh/Minimal-IK). Just an example.
+![image](https://user-images.githubusercontent.com/33902321/201305650-1ff6c93d-c2f2-4ddb-a85c-19ef14702b79.png)
 
 ## Installation
 
