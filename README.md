@@ -81,7 +81,7 @@ o3d_plot([o3d_mesh(mesh)])
 ```
 
 # Bibliography
-This repository is created along with the paper [mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar](https://dl.acm.org/doi/abs/10.1145/3503161.3548262). It's a tool for early-stage test and might not be used in the final version of the paper.
+This repository is created along with the paper [mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar](https://dl.acm.org/doi/abs/10.1145/3503161.3548262)([Homepage](https://chen3110.github.io/mmbody)). This repo is a tool for early-stage test and might not be used in the final version of the paper.
 
 Please consider citing our paper:
 ```
