@@ -18,7 +18,7 @@ Test on Ubuntu 18.04, Python==3.8.8, torch==1.7.1+cu110, pytorch3d==0.4.0, human
 - numba(for faster point cloud filter, not necessary)
 
 ### Pretrained Models
-Please download [data.zip](https://zjueducn-my.sharepoint.com/personal/xy_wong_zju_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxy_wong_zju_edu_cn%2FDocuments%2FShare&ga=1) and unzip it under the current directory.
+Please download [data.zip](https://zjueducn-my.sharepoint.com/:u:/g/personal/xy_wong_zju_edu_cn/EZSE66yWPgpFigG6nK9wM6QBx_PlXPwlzAy-xo5dSxvDXw?e=tbufQu) and unzip it under the current directory.
 
 ### Prepare Models
 We process SMPL models following [Minimal-IK](https://github.com/CalciferZh/Minimal-IK). We provide models that are already processed and can be directly used.
